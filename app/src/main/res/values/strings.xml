@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Petiza</string>
+
+    <string name="forgot"><u>Forgot Password?</u></string>
+</resources>
